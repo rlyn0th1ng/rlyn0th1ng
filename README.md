@@ -1,4 +1,4 @@
-# Merhaba, Ben Ozan Aksoy 👋
+<img width="480" height="476" alt="giphy" src="https://github.com/user-attachments/assets/f425e884-b092-4da6-abd3-c11a00d105c4" /># Merhaba, Ben Ozan Aksoy 👋
 
 Siber güvenlik ve yazılım geliştirme alanlarına odaklanan, modern geliştirme araçlarını aktif kullanan bir Web Tasarımı ve Kodlama öğrencisiyim.
 
@@ -15,11 +15,7 @@ Siber güvenlik ve yazılım geliştirme alanlarına odaklanan, modern geliştir
 
 ### 🎨 Görsel / Banner
 
-<p align="center">
-  <a href="https://giphy.com/gifs/cat-dance-cats-trbokshitpost-8X0BJeKzJpv0YsujtT" target="_blank">
-    <img src="https://media.giphy.com/media/8X0BJeKzJpv0YsujtT/giphy.gif" alt="Cat Dance GIF" width="480" />
-  </a>
-</p>
+![Uploading giphy.gif…]()
 
 ---
 
