@@ -22,7 +22,7 @@ Siber güvenlik ve yazılım geliştirme alanlarına odaklanan, modern geliştir
 ### 🛠️ Teknolojiler ve Araçlar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,cs,linux,arch,kali,github,vscode" alt="Yetenekler" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,cs" alt="Yetenekler" />
 </p>
 
 ---
