@@ -1,4 +1,3 @@
-<br>
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/f425e884-b092-4da6-abd3-c11a00d105c4" width="480" height="476" alt="giphy" />
@@ -17,6 +16,26 @@ Siber güvenlik ve yazılım geliştirme alanlarına odaklanan, modern geliştir
 * 🐧 **İşletim Sistemi:** Arch Linux & Kali Linux kullanıcısı
 * ⚡ **Geliştirme Yaklaşımı:** Vibe coding / Hızlı prototipleme ve modern yapay zekâ destekli geliştirme süreçleri
 * 🎯 **Hedef:** Güvenli mimariler tasarlamak ve sistem açıklarını analiz etmek
+
+---
+
+### 🛠️ Teknolojiler ve Araçlar
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,cs,linux,arch,kali,bash,git,github,vscode" alt="Yetenekler" />
+</p>
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADI&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADI&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
