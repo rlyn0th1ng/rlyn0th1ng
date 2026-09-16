@@ -16,9 +16,10 @@ Siber güvenlik ve yazılım geliştirme alanlarına odaklanan, modern geliştir
 ### 🎨 Görsel / Banner
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8X0BJeKzJpv0YsujtT/giphy.gif" alt="Cat Dance GIF" width="400" />
+  <a href="https://giphy.com/gifs/cat-dance-cats-trbokshitpost-8X0BJeKzJpv0YsujtT" target="_blank">
+    <img src="https://media.giphy.com/media/8X0BJeKzJpv0YsujtT/giphy.gif" alt="Cat Dance GIF" width="480" />
+  </a>
 </p>
-
 
 ---
 
