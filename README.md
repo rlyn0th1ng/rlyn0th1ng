@@ -34,7 +34,7 @@ Siber güvenlik ve yazılım geliştirme alanlarına odaklanan, modern geliştir
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?rlyn0th1ng=rlyn0th1ng&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rlyn0th1ng&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
