@@ -4,7 +4,7 @@
 
 # Merhaba, Ben Ozan Aksoy 👋
 
-Siber güvenlik ve yazılım geliştirme alanlarına odaklanan, modern geliştirme araçlarını aktif kullanan bir Web Tasarımı ve Kodlama öğrencisiyim.
+Siber güvenlik ve yazılım geliştirme alanlarına odaklanan, modern geliştirme araçlarını aktif kullanan bir İÜ Web Tasarımı ve Kodlama öğrencisiyim.
 
 </div>
 
