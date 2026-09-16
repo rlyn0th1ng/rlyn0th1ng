@@ -1,21 +1,21 @@
-<img width="480" height="476" alt="giphy" src="https://github.com/user-attachments/assets/f425e884-b092-4da6-abd3-c11a00d105c4" /># Merhaba, Ben Ozan Aksoy 👋
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/f425e884-b092-4da6-abd3-c11a00d105c4" width="480" height="476" alt="giphy" />
+
+# Merhaba, Ben Ozan Aksoy 👋
 
 Siber güvenlik ve yazılım geliştirme alanlarına odaklanan, modern geliştirme araçlarını aktif kullanan bir Web Tasarımı ve Kodlama öğrencisiyim.
+
+</div>
 
 ---
 
 ### 💻 Hakkımda
 
-- 🛡️ **Odak Alanı:** Siber Güvenlik, Red Team, Web App Sec
-- 🐧 **İşletim Sistemi:** Arch Linux & Kali Linux kullanıcısı
-- ⚡ **Geliştirme Yaklaşımı:** Vibe coding / Hızlı prototipleme ve modern yapay zekâ destekli geliştirme süreçleri
-- 🎯 **Hedef:** Güvenli mimariler tasarlamak ve sistem açıklarını analiz etmek
-
----
-
-### 🎨 Görsel / Banner
-
-![Uploading giphy.gif…]()
+* 🛡️ **Odak Alanı:** Siber Güvenlik, Red Team, Web App Sec
+* 🐧 **İşletim Sistemi:** Arch Linux & Kali Linux kullanıcısı
+* ⚡ **Geliştirme Yaklaşımı:** Vibe coding / Hızlı prototipleme ve modern yapay zekâ destekli geliştirme süreçleri
+* 🎯 **Hedef:** Güvenli mimariler tasarlamak ve sistem açıklarını analiz etmek
 
 ---
 
