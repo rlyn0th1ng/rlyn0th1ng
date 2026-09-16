@@ -30,11 +30,11 @@ Siber güvenlik ve yazılım geliştirme alanlarına odaklanan, modern geliştir
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADI&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlyn0th1ng&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADI&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rlyn0th1ng&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
