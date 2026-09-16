@@ -1,12 +1,12 @@
 # Merhaba, Ben Ozan Aksoy 👋
 
-Siber güvenlik ve yazılım geliştirme alanlarına odaklanan, modern geliştirme araçlarını aktif kullanan bir web tasarım ve kodlama öğrencisiym.
+Siber güvenlik ve yazılım geliştirme alanlarına odaklanan, modern geliştirme araçlarını aktif kullanan bir Web Tasarımı ve Kodlama öğrencisiyim.
 
 ---
 
 ### 💻 Hakkımda
 
-- 🛡️ **Odak Alanı:** Siber Güvenlik, Red Team, Web App Sec.
+- 🛡️ **Odak Alanı:** Siber Güvenlik, Red Team, Web App Sec
 - 🐧 **İşletim Sistemi:** Arch Linux & Kali Linux kullanıcısı
 - ⚡ **Geliştirme Yaklaşımı:** Vibe coding / Hızlı prototipleme ve modern yapay zekâ destekli geliştirme süreçleri
 - 🎯 **Hedef:** Güvenli mimariler tasarlamak ve sistem açıklarını analiz etmek
@@ -14,7 +14,18 @@ Siber güvenlik ve yazılım geliştirme alanlarına odaklanan, modern geliştir
 ---
 
 ### 🎨 Görsel / Banner
-<iframe src="https://giphy.com/embed/8X0BJeKzJpv0YsujtT" width="480" height="475" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-dance-cats-trbokshitpost-8X0BJeKzJpv0YsujtT">via GIPHY</a></p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/8X0BJeKzJpv0YsujtT/giphy.gif" alt="Cat Dance GIF" width="400" />
+</p>
+
+---
+
+### 🛠️ Teknolojiler ve Araçlar
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,cs,linux,arch,kali,bash,git,github,vscode" alt="Yetenekler" />
+</p>
 
 ---
 
