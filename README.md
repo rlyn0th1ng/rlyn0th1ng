@@ -19,6 +19,7 @@ Siber güvenlik ve yazılım geliştirme alanlarına odaklanan, modern geliştir
   <img src="https://media.giphy.com/media/8X0BJeKzJpv0YsujtT/giphy.gif" alt="Cat Dance GIF" width="400" />
 </p>
 
+
 ---
 
 ### 🛠️ Teknolojiler ve Araçlar
